@@ -11,7 +11,7 @@ Nihilo Coin is an open source virtual unit of account, processed via publicly ac
 | Block Spacing          | 120 seconds       |
 | Staking Minimum Age    | 8 hours           |
 | Masternode Minimum Age | 24 hours          |
-| Reward                 | 25% PoS / 75% MN  |
+| Reward                 | 40% PoS / 60% MN  |
 
 ## Channels
 
